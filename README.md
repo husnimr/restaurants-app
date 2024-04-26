@@ -1,4 +1,4 @@
-## Spesifikasi Indonesian Resto 3.0
+## Spesifikasi Tambahan Indonesian Resto 3.0
 
 ### Integration Test
 - Menerapkan integration test untuk fungsi menyukai dan batal menyukai restoran.
