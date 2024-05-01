@@ -16,5 +16,7 @@
 
 ![image](https://github.com/husnimr/restaurants-app/assets/118866154/de1bed21-a615-4745-80d6-2ef3f5bae7b5)
 
-Jaksel, Apr 2024
-by Husni MR
+## Author
+- [Husni MR](https://github.com/husnimr/)
+- [LinkedIn](https://www.linkedin.com/in/husnimubarokramadhan/)
+- [Instagram](https://www.instagram.com/husnimbrrk)
